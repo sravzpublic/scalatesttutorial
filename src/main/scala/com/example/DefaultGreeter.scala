@@ -1,0 +1,1 @@
+class DefaultGreeter extends Greeter
